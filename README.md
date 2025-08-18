@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayeskarabech&label=Profile%20views&color=0e75b6&style=flat" alt="ayeskarabech" /> </p>
 
-- 3º período de Sistemas de Informações na UFRPE
-
 - Estudo autodidata: [Sistema de Gestão Jurídica](https://github.com/ayeskarabech/Sistema-de-Gestao-Juridica)
 
 - Atualmente aprendendo **Python, Flask, SQLite, arquitetura de sofwtare e controle de versionamento**
