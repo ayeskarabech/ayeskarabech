@@ -3,13 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayeskarabech&label=Profile%20views&color=0e75b6&style=flat" alt="ayeskarabech" /> </p>
 
-- 🔭 Estudo autodidata: [Sistema de Gestão Jurídica](https://github.com/ayeskarabech/Sistema-de-Gestao-Juridica)
+- 3º período de Sistemas de Informações na UFRPE
 
-- 🌱 Atualmente aprendendo **Python, Flask, SQLite, arquitetura de sofwtare e controle de versionamento**
+- Estudo autodidata: [Sistema de Gestão Jurídica](https://github.com/ayeskarabech/Sistema-de-Gestao-Juridica)
 
-- 💬 Soft skills **comunicação, organização e foco em aprendizado contínuo**
+- Atualmente aprendendo **Python, Flask, SQLite, arquitetura de sofwtare e controle de versionamento**
 
-- 📫 Como me encontrar **ayeskarlima@hotmail.com**
+- Soft skills **comunicação, organização e foco em aprendizado contínuo**
+
+- Como me encontrar **ayeskarlima@hotmail.com**
 
 <h3 align="left">Me encontre:</h3>
 <p align="left">
