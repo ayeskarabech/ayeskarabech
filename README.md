@@ -9,7 +9,6 @@
 
 - Soft skills **comunicação, organização e foco em aprendizado contínuo**
 
-- Como me encontrar **ayeskarlima@hotmail.com**
 
 <h3 align="left">Me encontre:</h3>
 <p align="left">
