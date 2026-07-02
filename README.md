@@ -32,6 +32,15 @@ Sistema backend robusto desenvolvido em Java para o gerenciamento inteligente de
 
 ---
 
+### 🏆 Estatísticas de Código
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/your-github-username?theme=dark">
+  <img alt="Most Used Languages'" src="https://github-used-languages.vercel.app/your-github-username">
+</picture>
+
+---
+
 ### ✉️ Como me encontrar
 
 * 💼 [LinkedIn](https://linkedin.com/in/ayeskarabech)
