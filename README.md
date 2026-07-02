@@ -44,4 +44,4 @@ Sistema backend robusto desenvolvido em Java para o gerenciamento inteligente de
 ### ✉️ Como me encontrar
 
 * 💼 [LinkedIn](https://linkedin.com/in/ayeskarabech)
-* 📧 [E-mail Corporativo](mailto:ayeska.rabech@ufrpe.br)
+* 📧 [E-mail](mailto:ayeska.rabech@ufrpe.br)
