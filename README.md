@@ -32,11 +32,11 @@ Sistema backend robusto desenvolvido em Java para o gerenciamento inteligente de
 
 ---
 
-### 🏆 Estatísticas de Código
+### 🏆 Linguagens Mais Utilizadas
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/your-github-username?theme=dark">
-  <img alt="Most Used Languages'" src="https://github-used-languages.vercel.app/your-github-username">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/ayeskarabech?theme=dark&config=https://raw.githubusercontent.com/ayeskarabech/ayeskarabech/main/config.json">
+  <img alt="Most Used Languages" src="https://github-used-languages.vercel.app/ayeskarabech?config=https://raw.githubusercontent.com/ayeskarabech/ayeskarabech/main/config.json">
 </picture>
 
 ---
