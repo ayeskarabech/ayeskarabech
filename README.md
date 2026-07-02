@@ -1,20 +1,38 @@
-# Olá, eu sou Ayeska!
+# Olá, eu sou Ayeska! 👋
 
-### 👩‍💻 Sobre mim
-- Estudante de **Sistemas de Informação** na **UFRPE** (4º Período).
-- Foco atual: Domínio de **Java e Programação Orientada a Objetos**.
-- Em transição para o ecossistema **Spring Boot** e desenvolvimento de APIs REST.
+Sou estudante de **Sistemas de Informação na UFRPE** com foco no desenvolvimento de soluções escaláveis, arquitetura de software e garantia de qualidade. Atualmente estou concentrando meus esforços na criação de ecossistemas combinando a robustez do ecossistema Python com a flexibilidade de APIs modernas de Inteligência Artificial.
+
+---
+
+### 👤 Sobre mim
+
+* 🎓 **Formação:** Graduanda em Sistemas de Informação pela Universidade Federal Rural de Pernambuco.
+* 🚀 **Foco Atual:** Domínio de Java, Programação Orientada a Objetos (POO) e modelagem de arquiteturas de software distribuídas.
+* 🧠 **Especialidade em IA:** Desenvolvimento de microsserviços e APIs locais integradas a grandes modelos de linguagem (LLMs), como a API do Gemini.
+* 🛠️ **Garantia de Qualidade:** Forte interesse e práticas aplicadas em Engenharia de Software focada em QA (Quality Assurance) e testes.
+
+---
 
 ### 🛠️ Tecnologias e Ferramentas
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🌿 Projeto em Destaque: EcoCity
-Estou desenvolvendo o **[EcoCity](https://github.com/ayeskarabech/EcoCity-Backend)**, um sistema backend em Java para gestão de logística reversa e descarte de resíduos, aplicando conceitos avançados de POO, encapsulamento e regras de negócio.
+* **Linguagens:** Java, Python
+* **Bancos de Dados:** PostgreSQL, Supabase, MySQL
+* **IA & Cloud:** SDK Google GenAI, Gemini API, Cloud Databases
+* **Ferramentas:** Git, GitHub, Visual Studio Code, IntelliJ
 
-### 📫 Como me encontrar
-- [LinkedIn](https://www.linkedin.com/in/ayeskarabech/)
-- [E-mail](ayeska.rabech@ufrpe.br)
+---
+
+### 🚀 Projetos em Destaque
+
+#### ⚖️ PreviGest — Sistema de Gestão Jurídica & IA PreviMind
+Desenvolvimento de uma solução desktop nativa voltada para a advocacia previdenciária. O ecossistema conta com uma API local em Python integrada a um banco de dados relacional em nuvem (Supabase/PostgreSQL), controle de acessos dinâmicos por planos de assinatura (SaaS) e um motor de Inteligência Artificial próprio conectado à API do Gemini para varredura de jurisprudência e geração automatizada de minutas processuais de alta complexidade.
+
+#### 🌱 EcoCity — Gestão de Logística Reversa
+Sistema backend robusto desenvolvido em Java para o gerenciamento inteligente de descarte de resíduos. O projeto aplica conceitos avançados de POO, encapsulamento rígido e arquitetura limpa para a validação de regras de negócio complexas.
+
+---
+
+### ✉️ Como me encontrar
+
+* 💼 [LinkedIn](https://linkedin.com/in/ayeskarabech)
+* 📧 [E-mail Corporativo](mailto:ayeska.rabech@ufrpe.br)
