@@ -1,15 +1,8 @@
+[![UFRPE Devs badge](https://raw.githubusercontent.com/ufrpe-devs/comunidade/main/media/ufrpe-devs-badge.svg)](https://github.com/ufrpe-devs/comunidade)
+
 # Olá, eu sou Ayeska! 👋
 
-Sou estudante de **Sistemas de Informação na UFRPE** com foco no desenvolvimento de soluções escaláveis, arquitetura de software e garantia de qualidade. Atualmente estou concentrando meus esforços na criação de ecossistemas combinando a robustez do ecossistema Python com a flexibilidade de APIs modernas de Inteligência Artificial.
-
----
-
-### 👤 Sobre mim
-
-* 🎓 **Formação:** Graduanda em Sistemas de Informação pela Universidade Federal Rural de Pernambuco.
-* 🚀 **Foco Atual:** Domínio de Java, Programação Orientada a Objetos (POO) e modelagem de arquiteturas de software distribuídas.
-* 🧠 **Especialidade em IA:** Desenvolvimento de microsserviços e APIs locais integradas a grandes modelos de linguagem (LLMs), como a API do Gemini.
-* 🛠️ **Garantia de Qualidade:** Forte interesse e práticas aplicadas em Engenharia de Software focada em QA (Quality Assurance) e testes.
+Graduanda em Sistemas de Informação @UFRPE, atuando como Estagiária em Dados no Núcleo de Gestão por Resultados na Educação (SEPLAG/PE).
 
 ---
 
@@ -17,8 +10,7 @@ Sou estudante de **Sistemas de Informação na UFRPE** com foco no desenvolvimen
 
 * **Linguagens:** Java, Python
 * **Bancos de Dados:** PostgreSQL, Supabase, MySQL
-* **IA & Cloud:** SDK Google GenAI, Gemini API, Cloud Databases
-* **Ferramentas:** Git, GitHub, Visual Studio Code, IntelliJ
+* **Ferramentas:** Git/GitHub, VS Code, IntelliJ, Excel, Power BI, Power Query, QlikView
 
 ---
 
@@ -28,7 +20,7 @@ Sou estudante de **Sistemas de Informação na UFRPE** com foco no desenvolvimen
 Desenvolvimento de uma solução desktop nativa voltada para a advocacia previdenciária. O ecossistema conta com uma API local em Python integrada a um banco de dados relacional em nuvem (Supabase/PostgreSQL), controle de acessos dinâmicos por planos de assinatura (SaaS) e um motor de Inteligência Artificial próprio conectado à API do Gemini para varredura de jurisprudência e geração automatizada de minutas processuais de alta complexidade.
 
 #### 🌱 EcoCity — Gestão de Logística Reversa
-Sistema backend robusto desenvolvido em Java para o gerenciamento inteligente de descarte de resíduos. O projeto aplica conceitos avançados de POO, encapsulamento rígido e arquitetura limpa para a validação de regras de negócio complexas.
+Sistema backend desenvolvido em Java para o gerenciamento inteligente de descarte de resíduos. O projeto aplica conceitos avançados de POO, encapsulamento rígido e arquitetura limpa para a validação de regras de negócio complexas.
 
 ---
 
