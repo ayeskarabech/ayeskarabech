@@ -1,5 +1,3 @@
-[![UFRPE Devs badge](https://raw.githubusercontent.com/ufrpe-devs/comunidade/main/media/ufrpe-devs-badge.svg)](https://github.com/ufrpe-devs/comunidade)
-
 # Olá, eu sou Ayeska! 👋
 
 Graduanda em Sistemas de Informação @UFRPE, atuando como Estagiária em Dados no Núcleo de Gestão por Resultados na Educação (SEPLAG/PE).
